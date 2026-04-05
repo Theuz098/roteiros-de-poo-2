@@ -1,0 +1,17 @@
+C:\Users\Mateus\source\repos\Produtos\Produtos\bin\Debug\net8.0\Produtos.exe
+C:\Users\Mateus\source\repos\Produtos\Produtos\bin\Debug\net8.0\Produtos.deps.json
+C:\Users\Mateus\source\repos\Produtos\Produtos\bin\Debug\net8.0\Produtos.runtimeconfig.json
+C:\Users\Mateus\source\repos\Produtos\Produtos\bin\Debug\net8.0\Produtos.dll
+C:\Users\Mateus\source\repos\Produtos\Produtos\bin\Debug\net8.0\Produtos.pdb
+C:\Users\Mateus\source\repos\Produtos\Produtos\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\Produtos.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\Produtos.csproj.Up2Date
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\Produtos.dll
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\refint\Produtos.dll
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\Produtos.pdb
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\Produtos.genruntimeconfig.cache
+C:\Users\Mateus\source\repos\Produtos\Produtos\obj\Debug\net8.0\ref\Produtos.dll

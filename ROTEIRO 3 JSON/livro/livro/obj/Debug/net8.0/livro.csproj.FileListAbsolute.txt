@@ -1,0 +1,17 @@
+C:\Users\Mateus\source\repos\livro\livro\bin\Debug\net8.0\livro.exe
+C:\Users\Mateus\source\repos\livro\livro\bin\Debug\net8.0\livro.deps.json
+C:\Users\Mateus\source\repos\livro\livro\bin\Debug\net8.0\livro.runtimeconfig.json
+C:\Users\Mateus\source\repos\livro\livro\bin\Debug\net8.0\livro.dll
+C:\Users\Mateus\source\repos\livro\livro\bin\Debug\net8.0\livro.pdb
+C:\Users\Mateus\source\repos\livro\livro\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\livro.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\livro.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\livro.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\livro.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\livro.csproj.Up2Date
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\livro.dll
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\refint\livro.dll
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\livro.pdb
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\livro.genruntimeconfig.cache
+C:\Users\Mateus\source\repos\livro\livro\obj\Debug\net8.0\ref\livro.dll
