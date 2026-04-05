@@ -1,0 +1,17 @@
+C:\Users\Mateus\source\repos\carro\carro\bin\Debug\net8.0\carro.exe
+C:\Users\Mateus\source\repos\carro\carro\bin\Debug\net8.0\carro.deps.json
+C:\Users\Mateus\source\repos\carro\carro\bin\Debug\net8.0\carro.runtimeconfig.json
+C:\Users\Mateus\source\repos\carro\carro\bin\Debug\net8.0\carro.dll
+C:\Users\Mateus\source\repos\carro\carro\bin\Debug\net8.0\carro.pdb
+C:\Users\Mateus\source\repos\carro\carro\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\carro.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\carro.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\carro.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\carro.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\carro.csproj.Up2Date
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\carro.dll
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\refint\carro.dll
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\carro.pdb
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\carro.genruntimeconfig.cache
+C:\Users\Mateus\source\repos\carro\carro\obj\Debug\net8.0\ref\carro.dll
