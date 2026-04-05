@@ -1,0 +1,18 @@
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\bin\Debug\net8.0\exercicio 5.exe
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\bin\Debug\net8.0\exercicio 5.deps.json
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\bin\Debug\net8.0\exercicio 5.runtimeconfig.json
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\bin\Debug\net8.0\exercicio 5.dll
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\bin\Debug\net8.0\exercicio 5.pdb
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\bin\Debug\net8.0\BibliotecaDeDesconto.dll
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\bin\Debug\net8.0\BibliotecaDeDesconto.pdb
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\exercicio 5.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\exercicio 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\exercicio 5.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\exercicio 5.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\exercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\exercici.5209DB4D.Up2Date
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\exercicio 5.dll
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\refint\exercicio 5.dll
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\exercicio 5.pdb
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\exercicio 5.genruntimeconfig.cache
+C:\Users\Mateus\source\repos\exercicio 5\exercicio 5\obj\Debug\net8.0\ref\exercicio 5.dll
