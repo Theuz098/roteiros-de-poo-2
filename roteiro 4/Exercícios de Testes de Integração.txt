@@ -1,0 +1,55 @@
+Exercícios de Testes de Integração
+ 
+1- os testes de integração serve para garantir que todos os componentes aconteça de forma correta e segura,  fazendo que o sistema funcione como esperado.
+ 
+2-  a principal diferença é que o teste unitário verifica uma parte isolada do sistema, enquanto o teste de integração verifica o funcionamento conjunto entre dois ou mais componentes.
+
+3- não, pois os testes de integração pode ser realizados de forma manual aonde você quer ter certas analises dos componentes.
+
+4- porque os testes de integração pode verificar se os componentes do seu sistema esta funcionando de acordo, como você pode colocar para realizar automação para deixar seu sistema seguro e eficiente.
+
+5- perda de dados que pode ocorrer por falhas na transmissão, erro no código ou problemas no sistema
+   resultados divergentes isso geralmente pode ocorrer por erros na comunicação entre os componentes, uso de dados incorretos ou falhas no processamento das informações.
+
+6- O processo de teste de integração começa identificando quais módulos do sistema vão ser integrados. Depois, são definidos os cenários de teste, ou seja, o que será testado entre essas partes. Em seguida, são criados os casos de teste com os dados de entrada e os resultados esperados. Após isso, os testes são executados para ver como os módulos funcionam juntos. Depois, é feita a validação dos resultados, comparando com o que era esperado. Por fim, tudo é documentado, registrando os testes e possíveis erros encontrados.
+
+7- integração vertical testa a comunicação entre camadas do sistema (ex: Controller → Service → Repository).
+integração horizontal testa a comunicação entre módulos no mesmo nível (ex: Service com outro Service).
+
+8- é uma integração vertical, pois envolve várias camadas do sistema até chegar no banco de dados.
+
+9-É quando se testa se uma classe está implementando corretamente uma interface, ou seja, se está seguindo o contrato definido.
+
+10-Porque envolvem várias partes do sistema funcionando juntas, podendo usar banco de dados, APIs, etc, o que torna mais demorado que testar algo isolado.
+
+11-a) Integração horizontal (ou de serviços).
+b) Deixaria de ser se começasse a envolver sistema externo, passando a ser integração de sistemas.
+
+12-Integração de sistemas, pois envolve comunicação com uma API externa ao sistema.
+
+13-É um tipo de teste que garante que mudanças no código não quebraram funcionalidades que já funcionavam antes.
+
+14-Integração de interfaces, pois testa se a implementação está de acordo com a interface.
+
+15-Porque são mais lentos e complexos. Nem tudo precisa testar junto, então os testes unitários ajudam a validar partes menores mais rápido.
+
+16-Podem acontecer erros na comunicação entre módulos, mesmo que cada parte funcione separadamente.
+
+17-Porque integração de serviços é um caso específico dentro da integração de sistemas, mas sistemas podem envolver outras coisas além de serviços.
+
+18-Integração vertical (fluxo interno) e integração de sistemas (API externa de pagamento).
+
+19-Dependências mockadas são simuladas, usadas em testes unitários.
+Dependências reais são usadas de verdade (banco, API), comuns em testes de integração, deixando o teste mais real.
+
+20-Execução mais rápida, menos erros humanos e facilidade de repetir testes.
+
+21-Não, porque só eles não garantem que cada parte funciona isoladamente. É importante ter testes unitários também.
+
+22-Porque a API externa pode estar fora do ar, lenta ou com erro, mesmo que o sistema esteja correto.
+
+23-Uma arquitetura bem organizada facilita testar as partes e suas integrações de forma mais clara e eficiente.
+
+24-Não, eles se complementam. Testes unitários verificam partes isoladas e os de integração verificam o conjunto.
+
+25-O maior desafio é lidar com dependências externas e garantir que tudo funcione junto sem erros.
