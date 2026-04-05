@@ -1,4 +1,4 @@
-Aqui está a documentação da BibliotecaGeometria:
+
 BibliotecaGeometria - Documentação
 O que é?
 
