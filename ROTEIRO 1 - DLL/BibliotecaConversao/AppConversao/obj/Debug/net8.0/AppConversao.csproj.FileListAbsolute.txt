@@ -1,0 +1,36 @@
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\bin\Debug\net8.0\AppConversao.exe
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\bin\Debug\net8.0\AppConversao.deps.json
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\bin\Debug\net8.0\AppConversao.runtimeconfig.json
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\bin\Debug\net8.0\AppConversao.dll
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\bin\Debug\net8.0\AppConversao.pdb
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\bin\Debug\net8.0\BibliotecaConversao.dll
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\bin\Debug\net8.0\BibliotecaConversao.pdb
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConve.E373D5E2.Up2Date
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.dll
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\refint\AppConversao.dll
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.pdb
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.genruntimeconfig.cache
+C:\Users\Mateus\source\repos\BibliotecaConversao\AppConversao\obj\Debug\net8.0\ref\AppConversao.dll
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\bin\Debug\net8.0\AppConversao.exe
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\bin\Debug\net8.0\AppConversao.deps.json
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\bin\Debug\net8.0\AppConversao.runtimeconfig.json
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\bin\Debug\net8.0\AppConversao.dll
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\bin\Debug\net8.0\AppConversao.pdb
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\bin\Debug\net8.0\BibliotecaConversao.dll
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\bin\Debug\net8.0\BibliotecaConversao.pdb
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConve.E373D5E2.Up2Date
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.dll
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\refint\AppConversao.dll
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.pdb
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\AppConversao.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\ROTEIRO 1 - DLL\BibliotecaConversao\AppConversao\obj\Debug\net8.0\ref\AppConversao.dll
