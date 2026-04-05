@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AppGeometria/1.0.0": {
+        "dependencies": {
+          "BibliotecaGeometria": "1.0.0"
+        },
+        "runtime": {
+          "AppGeometria.dll": {}
+        }
+      },
+      "BibliotecaGeometria/1.0.0": {
+        "runtime": {
+          "BibliotecaGeometria.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppGeometria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaGeometria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

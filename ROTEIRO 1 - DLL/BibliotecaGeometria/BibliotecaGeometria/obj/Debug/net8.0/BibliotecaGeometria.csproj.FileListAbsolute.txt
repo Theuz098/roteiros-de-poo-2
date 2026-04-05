@@ -1,0 +1,11 @@
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\bin\Debug\net8.0\BibliotecaGeometria.deps.json
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\bin\Debug\net8.0\BibliotecaGeometria.dll
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\bin\Debug\net8.0\BibliotecaGeometria.pdb
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\obj\Debug\net8.0\BibliotecaGeometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\obj\Debug\net8.0\BibliotecaGeometria.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\obj\Debug\net8.0\BibliotecaGeometria.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\obj\Debug\net8.0\BibliotecaGeometria.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\obj\Debug\net8.0\BibliotecaGeometria.dll
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\obj\Debug\net8.0\refint\BibliotecaGeometria.dll
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\obj\Debug\net8.0\BibliotecaGeometria.pdb
+C:\Users\Mateus\source\repos\BibliotecaGeometria\BibliotecaGeometria\obj\Debug\net8.0\ref\BibliotecaGeometria.dll
